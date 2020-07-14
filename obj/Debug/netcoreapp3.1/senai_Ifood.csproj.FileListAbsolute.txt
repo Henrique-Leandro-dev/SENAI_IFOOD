@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\bin\Debug\netcoreapp3.1\senai_Ifood.exe
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\bin\Debug\netcoreapp3.1\senai_Ifood.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\bin\Debug\netcoreapp3.1\senai_Ifood.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\bin\Debug\netcoreapp3.1\senai_Ifood.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\bin\Debug\netcoreapp3.1\senai_Ifood.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\bin\Debug\netcoreapp3.1\senai_Ifood.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\senai_Ifood\obj\Debug\netcoreapp3.1\senai_Ifood.genruntimeconfig.cache
